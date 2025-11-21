@@ -6,5 +6,15 @@
 
 
 
-\# LLM doesn't use plugin - it calls manually.
+\### LLM doesn't use plugin - it calls manually.
+
+
+
+\## 📌 Lab2 : Using of IChatCompletionService with Ollama client
+
+
+
+\### IChatCompletionService implementation should be prepared fr using Ollama. Function for chatting with Ollama based on information of ChatHistory prepared.
+
+
 
