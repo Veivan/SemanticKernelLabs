@@ -8,11 +8,15 @@ LLM doesn't use plugin - it calls manually.
 
 ## 📌 Lab2 : Using of IChatCompletionService with Ollama client
 
-IChatCompletionService implementation should be prepared fr using Ollama. Function for chatting with Ollama based on information of ChatHistory prepared.
+IChatCompletionService implementation should be prepared for using Ollama. Function for chatting with Ollama based on information of ChatHistory prepared.
 
 ## 📌 Lab3 : Using of Hugging Face's model
 
-Worked earlier but doesn't work for now (Response status code does not indicate success: 410 (Gone).') 
+Worked earlier but doesn't work for now (Response status code does not indicate success: 410 (Gone).')
+
+## 📌 Lab4 : Using of built-in and custom plugins
+
+Built-in TimePlugin is used. CustomPlugin is implemented with "Chat" \& "Translate" functions.
 
 
 
