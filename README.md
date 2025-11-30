@@ -1,8 +1,18 @@
 # Using Semantic Kernel, Microsoft.Extensions.AI and Ollama for chat completion service.
 
 
+
 ## 📌 Lab1 : Using of KernelArguments and KernelFunction (plugin)
 
 LLM doesn't use plugin - it calls manually.
+
 ## 📌 Lab2 : Using of IChatCompletionService with Ollama client
- IChatCompletionService implementation should be prepared fr using Ollama. Function for chatting with Ollama based on information of ChatHistory prepared.
+
+IChatCompletionService implementation should be prepared fr using Ollama. Function for chatting with Ollama based on information of ChatHistory prepared.
+
+## 📌 Lab3 : Using of Hugging Face's model
+
+Worked earlier but doesn't work for now (Response status code does not indicate success: 410 (Gone).') 
+
+
+
